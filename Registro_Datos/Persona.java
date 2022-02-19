@@ -2,7 +2,7 @@ package Registro_Datos;
 
 
 public class Persona {
-
+    
     String nombre="";
     String Apellido="";
     String DPI="";
